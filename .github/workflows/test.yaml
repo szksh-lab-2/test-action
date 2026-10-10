@@ -9,3 +9,4 @@ jobs:
         with:
           persist-credentials: false
       - uses: ./
+      - uses: szksh-lab/test-action@a0728ffde5a5f398ff82357930f5ad5145bdba6f
